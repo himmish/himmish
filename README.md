@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I'm Himanshu
 
 <!--
 **himmish/himmish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as Full Stack Developer
+- 🌱 I’m currently learning Spring Micro Services, flutter and embedded programming with esp
+- 👤 Find me on [LeetCode](https://leetcode.com/him500/)
+
+## Languages & framerwork I'm familiar with
+
+### cplusplus java spring
