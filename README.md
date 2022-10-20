@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ## Languages & framerwork I'm familiar with
 
-### cplusplus java spring
+ <img src="https://i.redd.it/31b2ii8hchi31.jpg" alt="c++" width="60" height="60" />    <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="java" width="80" height="60" />   <img src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" alt="spring" width="80" height="60" />
