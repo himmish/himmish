@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Full Stack Developer
 - 🌱 I’m currently learning Spring Micro Services, flutter and embedded programming with esp
-- 👤 Find me on [LeetCode](https://leetcode.com/him500/)
+- 👤 Find me on [LeetCode](https://leetcode.com/him500/) [LinkedIn](https://www.linkedin.com/in/himanshu-mishra-3b3677170/)
+- 😄 Enthusiast about building things both in hardware and software side
 
 ## Languages & framerwork I'm familiar with
 
- <img src="https://i.redd.it/31b2ii8hchi31.jpg" alt="c++" width="60" height="60" />    <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="java" width="80" height="60" />   <img src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" alt="spring" width="80" height="60" />
+ <img src="https://i.redd.it/31b2ii8hchi31.jpg" alt="c++" width="60" height="60" />    <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="java" width="80" height="60" />   <img src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" alt="spring" width="80" height="60" />  <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="React" width="90" height="60" />  <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter" width="60" height="60" />
+ 
